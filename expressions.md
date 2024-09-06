@@ -69,7 +69,7 @@ para clonar el repositorio de esta práctica, cuya dirección es `git@github.com
 en su máquina virtual Ubuntu de la asignatura acceda al directorio en el que esté organizando sus
 prácticas y ejecute:
 ```
-$ git clone git@github.com:IB-2023-2024/P05-expressions.git practica05-expressions
+$ git clone git@github.com:IB-2024-2025/P05-expressions.git practica05-expressions
 ```
 En ese comando, el segundo parámetro (`practica05-expressions`) es el nombre del directorio donde se incluirá
 el contenido del repositorio que se está copiando.
@@ -279,7 +279,7 @@ double variable2 = 4.5;
 variable1 = static_cast<int>(variable2);
 ```
 Estudie el programa de ejemplo
-[static_cast.cc](https://github.com/IB-2023-2024/IB-class-code-examples/blob/master/IntroductionToC%2B%2B/static_cast.cc)
+[static_cast.cc](https://github.com/IB-2024-2025/IB-class-code-examples/blob/master/IntroductionToC%2B%2B/static_cast.cc)
 de los utilizados junto a las transparencias de la asignatura.
 
 Desinflado. Desarrolle un programa `desinflado.cc` que lea una letra mayúscula y muestre por pantalla su
